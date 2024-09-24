@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iryerap.github.io/sitemap.html.gz
+Sitemap: https://iryerap.github.io/app/sitemap.html.gz
+Sitemap: https://iryerap.github.io/assets/sitemap.html.gz
+Sitemap: https://iryerap.github.io/css/sitemap.html.gz
+Sitemap: https://iryerap.github.io/data/sitemap.html.gz
+Sitemap: https://iryerap.github.io/includes/sitemap.html.gz
+Sitemap: https://iryerap.github.io/item/sitemap.html.gz
+Sitemap: https://iryerap.github.io/src/sitemap.html.gz
